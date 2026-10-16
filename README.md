@@ -22,6 +22,10 @@ S(5 * 365.25, X[1, :]' * m.β)
 
 [The Cox model with Breslow's ties, and its predicted survival](vignette/BreslowCox.pdf)
 
+## License
+
+MIT (see [LICENSE](LICENSE)).
+
 ## Tests
 
 The tests compute the published tables below from their data and check every printed value, rounded to the digits printed:

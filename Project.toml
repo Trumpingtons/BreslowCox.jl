@@ -1,6 +1,6 @@
 name = "BreslowCox"
 uuid = "c15cfcd3-dc2c-4711-abc5-139963149349"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Antonio Saragga Seabra"]
 
 [deps]
