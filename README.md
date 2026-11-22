@@ -20,7 +20,7 @@ S(5 * 365.25, X[1, :]' * m.β)
 
 ## Vignette
 
-[The Cox model with Breslow's ties, and its predicted survival](vignette/BreslowCox.pdf)
+[The Cox model with Breslow's ties, and its predicted survival](vignette/BreslowCox.tex), its LaTeX source: Pollis compiles it in Help > Documentation > Package Vignettes.
 
 ## License
 
